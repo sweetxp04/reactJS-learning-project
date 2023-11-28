@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+By Doing this project I have learned about how to use props in reactjs.
 
 Currently, two official plugins are available:
 
